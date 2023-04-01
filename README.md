@@ -1,4 +1,9 @@
 # 2CAN
+April fools! (for now...)
+
+All proof displayed of this protocol was, instead, done via RailCANon: https://github.com/Armchair-Engineering/RailCANon
+
+
 PoDL (Power over Data Line) CAN Protocol Implementation
 
 
