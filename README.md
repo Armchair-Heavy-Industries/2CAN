@@ -12,7 +12,7 @@ If you're a 3D printing enthusiast or professional, you'll love 2CAN because it 
 
 In short, 2CAN is the protocol that 3D printing has been waiting for - a simple and efficient way to transmit both data and power using just two wires. Say goodbye to wiring headaches and hello to streamlined communication with 2CAN!
 
-#Installation
+# Installation
 Run the following command:
 ```shell
 cd ~
