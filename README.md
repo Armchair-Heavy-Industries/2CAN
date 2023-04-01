@@ -12,5 +12,14 @@ If you're a 3D printing enthusiast or professional, you'll love 2CAN because it 
 
 In short, 2CAN is the protocol that 3D printing has been waiting for - a simple and efficient way to transmit both data and power using just two wires. Say goodbye to wiring headaches and hello to streamlined communication with 2CAN!
 
+#Installation
+Run the following command:
+```shell
+cd ~
+git clone https://github.com/armchair_engineering/2can_install.git
+./2can_install/install.sh
+```
+
+
 For any questions, comments, concerns, insults, objections, or otherwise, please join the Armchair Engineering Discord:
 https://discord.gg/armchairengineeringsux
