@@ -2,7 +2,7 @@
 PoDL (Power over Data Line) CAN Protocol Implementation
 
 
-!(images/logo.png)
+![](images/logo.png)
 
 Introducing 2CAN - the cutting-edge protocol that is set to revolutionize 3D printing as we know it! Say goodbye to complicated wiring and hello to streamlined communication with just two wires.
 
