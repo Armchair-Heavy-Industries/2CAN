@@ -16,7 +16,7 @@ In short, 2CAN is the protocol that 3D printing has been waiting for - a simple 
 Run the following command:
 ```shell
 cd ~
-git clone https://github.com/armchair_engineering/2can_install.git
+git clone https://github.com/armchair-engineering/2can_install.git
 ./2can_install/install.sh
 ```
 
