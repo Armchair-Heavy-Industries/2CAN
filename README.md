@@ -11,3 +11,6 @@ With 2CAN, you can transmit both data and power using a unique approach that sim
 If you're a 3D printing enthusiast or professional, you'll love 2CAN because it simplifies the wiring process, making it easier to connect and operate your 3D printer. This means you can focus on what matters most - creating stunning 3D prints without the headache of wiring complexity.
 
 In short, 2CAN is the protocol that 3D printing has been waiting for - a simple and efficient way to transmit both data and power using just two wires. Say goodbye to wiring headaches and hello to streamlined communication with 2CAN!
+
+For any questions, comments, concerns, insults, objections, or otherwise, please join the Armchair Engineering Discord:
+https://discord.gg/armchairengineeringsux
